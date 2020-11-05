@@ -9,7 +9,8 @@
         "7c48b369-3dd1-4bfe-9dd8-fe1ccc7906e9": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "testMessage": "Test message"
+            "Top": "Top area of the page",
+            "Bottom": "Bottom area of the page"
           }
         }
       }
@@ -20,7 +21,8 @@
         "7c48b369-3dd1-4bfe-9dd8-fe1ccc7906e9": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "testMessage": "Test message"
+            "Top": "Top area of the page",
+            "Bottom": "Bottom area of the page"
           }
         }
       }
