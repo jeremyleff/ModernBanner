@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "modern-banner-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/modernBanner/ModernBannerApplicationCustomizer.js",
+          "manifest": "./src/extensions/modernBanner/ModernBannerApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ModernBannerApplicationCustomizerStrings": "lib/extensions/modernBanner/loc/{locale}.js"
+  }
+}
